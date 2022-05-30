@@ -1,4 +1,4 @@
-# 3d-complex-scene-with-c-
+# 3d-complex-scene
 An amusement park created with c++ and open gl
 
 FOR CHANGING CAMERA POSITION USE 4(for left),5(for down),6(for right),8(for up)
